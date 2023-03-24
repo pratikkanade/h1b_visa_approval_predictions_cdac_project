@@ -1,1 +1,3 @@
-# CDAC_Project
+# cdac_Project
+
+The purpose of this project is to predict the probability of approval of the H1B work visa for non immigrant workers settled in the United States of America. The machine learning model will verify if the H1B visa is granted on random basis to the employees, which is considered to be the case, or is dependent on different features. Along with data analytics, required data analysis of various factors that might contribute towards granting of visa is conducted. A web application is developed to showcase the prediction using streamlit framework in python. This application is deployed on the Elastic Cloud Compute of Amazon Web Server.
